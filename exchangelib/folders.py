@@ -1561,6 +1561,7 @@ class Message(ItemMixIn):
         'to_recipients': ('ToRecipients', [Mailbox]),
         'cc_recipients': ('CcRecipients', [Mailbox]),
         'bcc_recipients': ('BccRecipients', [Mailbox]),
+        'message_id': ('InternetMessageId', string_type),
     }
     EXTENDED_PROPERTIES = ['extern_id']
     ORDERED_FIELDS = (
