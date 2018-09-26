@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvikramarsid%2Fexchangelib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvikramarsid%2Fexchangelib?ref=badge_shield)
+
 Exchange Web Services client library
 ====================================
 This module provides an well-performing, well-behaving, platform-independent and simple interface for communicating with
@@ -224,3 +226,7 @@ Here are some examples of how `exchangelib` works:
 
     
     # 'exchangelib' has support for most (but not all) item attributes, and also item export and upload.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvikramarsid%2Fexchangelib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvikramarsid%2Fexchangelib?ref=badge_large)
